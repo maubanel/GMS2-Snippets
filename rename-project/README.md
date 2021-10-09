@@ -37,7 +37,9 @@ Select **File | Save Project As** and I am putting it in the same directory as t
 
 ##### `Step 4.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now you will have two identical copies of the same project, one with the old name and the other with the new name.
+
+![tweo copies of project](images/OldNewProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
