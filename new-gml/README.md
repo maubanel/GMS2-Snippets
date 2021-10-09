@@ -73,9 +73,9 @@ Select the **File | Save Project** then press **File | Quit** to make sure every
 
 ![save, quit, commit and push to github](images/GitHub.png)
 
-<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
-
-
+| `gms2.new-project`\|`THE END`| 
+| :--- |
+| **That's All Folks!** That's it for this snippet. |
 ___
 
 
