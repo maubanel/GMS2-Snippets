@@ -46,13 +46,17 @@ Now you will select a directory and a name for the project.  You can also create
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-![alt_text](images/.png)
+This will take you to an empty project window in the main game editor.
+
+![empty game window](images/EmptyGameWindow.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 6.`\|`ITA`| :small_orange_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now the folder that holds the project is named with the same name as the project in the folder you selected prior to this step.
+
+![folder with project name](images/FolderWithProjectName.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
