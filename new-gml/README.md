@@ -1,6 +1,6 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### New GML Project
+### [New GML Project
 
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
@@ -61,7 +61,7 @@ Now the folder that holds the project is named with the same name as the project
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
-The **GameMaker** folder will contain a `.yyp` file which is the project file.  This is just a text file and the actual contents it needs are in the folders.  **Do Not** rename, delete or add any files through the finder/explorer/operating system.  **Do Not** rename the project file through finder/explorer/operating system. All changes need to be made in the editor. To change the name of the project go to the [Change Project Name]() snippet.
+The **GameMaker** folder will contain a `.yyp` file which is the project file.  This is just a text file and the actual contents it needs are in the folders.  **Do Not** rename, delete or add any files through the finder/explorer/operating system.  **Do Not** rename the project file through finder/explorer/operating system. All changes need to be made in the editor. To change the name of the project go to the [Change Project Name](../rename-project/README.md#) snippet.
 
 ![show contents of gamemaker directory](images/DoNotAlter.png)
 
