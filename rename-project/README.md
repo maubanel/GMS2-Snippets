@@ -29,6 +29,8 @@ Select the **File | Save Project** to make sure all of your work is saved.
 
 ##### `Step 3.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
+Select **File | Save Project As** and I am putting it in the same directory as the one with the old name.  My previous name was **BouncingBallGame** but now I will call it `NewProjectName`.  I will finish by pressing the <kbd>Save</kbd> button.
+
 ![save project as](images/SaveProjectAs.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
