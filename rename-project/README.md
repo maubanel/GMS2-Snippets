@@ -51,7 +51,7 @@ Now you will have two identical copies of the same project, one with the old nam
 
 ##### `Step 6.`\|`ITA`| :small_orange_diamond: :small_blue_diamond:
 
-Open up the project with the new name and make sure it is correct.  Delete the old project name and you are ready to proceed with the project now newly named.
+Open up the project with the new name and make sure it is correct.  *Delete* the old project folder and you are ready to proceed with the project now newly named.
 
 ![alt_text](images/DeleteOldProject.png)
 
