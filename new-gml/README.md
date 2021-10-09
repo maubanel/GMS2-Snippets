@@ -38,7 +38,9 @@ All the walk throughs I am writing will be using the **GameMaker Lanuguage (GML)
 
 ##### `Step 4.`\|`ITA`|:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-![alt_text](images/.png)
+Now you will select a directory and a name for the project.  You can also create it in an existing **Git/GitHub** repository which I am doing here.  Press the <kbd>Save</kbd> button.
+
+![select a folder and and a name for the project](images/NameSaveProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
