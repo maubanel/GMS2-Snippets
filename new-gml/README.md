@@ -61,8 +61,9 @@ Now the folder that holds the project is named with the same name as the project
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 7.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+The **GameMaker** folder will contain
 
-![alt_text](images/.png)
+![show contents of gamemaker directory](images/DoNotAlter.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
