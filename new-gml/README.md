@@ -15,14 +15,14 @@ Create a new project using the GameMaker Scripting Language (GML).
 
 
 ##### `Step 1.`\|`ITA`|:small_blue_diamond:
-*Run* **GameMaker Studio 2** to launch the software.  Login with the user name you created.
+*Run* **GameMaker Studio 2** to launch the software.  Login with the user name you created.<kbd> </kbd>
 
 ![open up gamemaker studio 2 software](images/RunProgram.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
-We will start a new project (or load up an existing one if we are continuing work). 
+We will start a new project (or load up an existing one if we are continuing work). Press the <kbd>New</kbd> button to create a new project.
 
 ![select the new project button](images/NewProject.png)
 
