@@ -45,7 +45,7 @@ Now you will have two identical copies of the same project, one with the old nam
 
 ##### `Step 5.`\|`ITA`| :small_orange_diamond:
 
-![alt_text](images/.png)
+![alt_text](images/OldNewProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
