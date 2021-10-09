@@ -7,7 +7,7 @@
 Short small walk throughs for GameMaker Studio 2.
   
 
-* * Tested on GameMake Studio2.3.5.589
+* Tested on GameMake Studio2.3.5.589
 
 <!-- TOC -->
 ## Table of Contents
