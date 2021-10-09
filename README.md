@@ -1,4 +1,4 @@
-# UE4 GMS2 Snippets
+# GMS2 Snippets
 
 
 <!-- OVERVIEW -->
