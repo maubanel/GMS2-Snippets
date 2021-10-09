@@ -11,7 +11,7 @@ Short small walk throughs for GameMaker Studio 2.
 
 <!-- TOC -->
 ## Table of Contents
-<kbd></kbd> &nbsp;&nbsp; [New GML Project(new-gml/README.md#user-content-new-gml) <br>
+<kbd></kbd> &nbsp;&nbsp; [New GML Project](new-gml/README.md#user-content-new-gml) <br>
 
 
 
