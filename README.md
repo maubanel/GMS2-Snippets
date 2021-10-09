@@ -13,7 +13,7 @@ Short small walk throughs for GameMaker Studio 2.
 ## Table of Contents
 <kbd></kbd> &nbsp;&nbsp; [New GML Project](new-gml/README.md#user-content-new-gml-project) <br>
 
-<kbd></kbd> &nbsp;&nbsp; [New GML Project](rename-project/README.md#user-content-rename-gms2-project) <br>
+<kbd></kbd> &nbsp;&nbsp; [Rename GMS2 Project](rename-project/README.md#user-content-rename-gms2-project) <br>
 
 
 
