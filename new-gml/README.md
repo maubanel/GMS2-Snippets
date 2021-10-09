@@ -22,8 +22,9 @@ Create a new project using the GameMaker Scripting Language (GML).
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
 ##### `Step 2.`\|`FHIU`|:small_blue_diamond: :small_blue_diamond: 
+We will start a new project (or load up an existing one if we are continuing work). 
 
-![alt_text](images/RunProgram.png)
+![select the new project button](images/NewProject.png)
 
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
