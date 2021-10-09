@@ -1,19 +1,19 @@
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-### Add Title
+### New GML Project
 
-<sub>[previous](../) • [home](../README.md#user-content-gms2-snippets) • [next](../)</sub>
 
 <img src="https://via.placeholder.com/1000x4/45D7CA/45D7CA" alt="drawing" height="4px"/>
 
-Chapter introduction here.
+Create a new project using the GameMaker Scripting Language (GML).
 
-<br>
+| :floppy_disk: &nbsp; &nbsp; You will need to install the latest version of _GameMaker _ by downloading and installing it from  [YoYo Games](https://www.yoyogames.com/en/gamemaker). It may also be convenient to have [GitHub](https://github.com/) account which is free to sign up for as we will be using this for version control. If you are on a PC you will have to download and install [git](https://git-scm.com/downloads) (on a mac it may prompt you to install git as well but you can do it through the terminal). We will also install [Github Desktop](https://desktop.github.com) as it provides a GUI interface so you don't have to worry about command line.|
 
 ---
 
 
 ##### `Step 1.`\|`ITA`|:small_blue_diamond:
+
 
 ![alt_text](images/.jpg)
 
