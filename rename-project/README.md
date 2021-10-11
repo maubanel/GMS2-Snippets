@@ -55,6 +55,14 @@ Open up the project with the new name and make sure it is correct.  *Delete* the
 
 ![alt_text](images/DeleteOldProject.png)
 
+<img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
+
+##### `Step 7.`\|`ITA`| :small_orange_diamond: :small_blue_diamond: :small_blue_diamond:
+
+Select the **File | Save Project** then press **Fi9le | Quit** to make sure everything in the game is saved. If you are using **GitHub** open up **GitHub Desktop** and add a title, select **Push origin** to update the server with the latest changes.
+
+![alt_text](images/GitHub.png)
+
 | `gms2.rename-project`\|`THE END`| 
 | :--- |
 | **That's All Folks!** That's it for this snippet. |
